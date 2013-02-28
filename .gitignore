@@ -1,0 +1,5 @@
+*~
+*.pyc
+.hgignore
+.hg
+.hgtags

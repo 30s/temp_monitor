@@ -1,0 +1,10 @@
+<RCC>
+  <qresource>
+    <file>images/boiler_view.gif</file>
+    <file>images/global_view.png</file>
+    <file>images/settings.png</file>
+    <file>images/start.png</file>
+    <file>images/stop.png</file>
+    <file>images/tempmonitor.ico</file>
+  </qresource>
+</RCC>
